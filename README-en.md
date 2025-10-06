@@ -1,6 +1,6 @@
 # Wplace.live Map Capturer
 
-> 🇨🇳 [中文说明请点这里](./README-zh.md)
+> 🇨🇳 [中文说明请点这里](./README.md)
 
 An advanced area capture and template management tool for [wplace.live](https://wplace.live).
 

@@ -27,4 +27,4 @@
 
 ## 支持与反馈
 
-如有问题或建议，欢迎在 [Issues](https://github.com/yourname/yourrepo/issues) 区留言或提交 PR
+如有问题或建议，欢迎在 [Issues](https://github.com/Beibeisheep/Wplace-Map-Capturer/issues) 区留言或提交 PR

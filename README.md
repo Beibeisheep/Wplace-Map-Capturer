@@ -20,10 +20,17 @@
 
 ## 安装方法
 
-1. 下载并解压本仓库源码
-2. 打开 Chrome，进入 `chrome://extensions/`，右上角开启“开发者模式”
-3. 点击“加载已解压的扩展程序”，选择LOAD_UNPACKED文件夹
-4. 访问 [wplace.live](https://wplace.live/) 即可使用
+1. 下载或拉取并解压本仓库源码。
+2. 打开 Chrome/Edge/Brave/Firefox，进入 `chrome://extensions/`（Firefox 为 `about:addons`）。
+3. 开启“开发者模式”（Firefox 需进入“调试模式”或临时加载，详见[官方文档](https://extensionworkshop.com/documentation/develop/temporary-install-a-debug-addon/)）。
+4. 点击“加载已解压的扩展程序”，选择项目文件夹（Firefox 用“临时加载附加组件”）。
+5. 访问 [wplace.live](https://wplace.live/) 即可使用。
+
+## 浏览器兼容性
+
+- Chrome/Edge/Brave：支持静默批量下载和子目录（需关闭浏览器“每次下载前询问保存位置”）。
+- Firefox：仅支持普通文件名，每次下载都会弹出保存对话框（不支持子目录和静默下载，属浏览器限制）。
+- 如遇频繁弹窗，请检查浏览器下载设置。
 
 ## 支持与反馈
 

@@ -25,4 +25,4 @@ An advanced area capture and template management tool for [wplace.live](https://
 
 ## Support & Feedback
 
-If you have questions, suggestions, or want to contribute, please open an [Issue](https://github.com/yourname/yourrepo/issues) or submit a Pull Request
+If you have questions, suggestions, or want to contribute, please open an [Issue](https://github.com/Beibeisheep/Wplace-Map-Capturer/issues) or submit a Pull Request

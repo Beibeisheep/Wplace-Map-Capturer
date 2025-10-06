@@ -19,9 +19,16 @@ An advanced area capture and template management tool for [wplace.live](https://
 ## Installation
 
 1. Download and unzip the repository.
-2. Open Chrome and go to `chrome://extensions/`, enable "Developer mode".
-3. Click "Load unpacked" and select "LOAD_UNPACKED" folder.
-4. Visit [wplace.live](https://wplace.live/) to use the extension.
+2. Open Chrome/Edge/Brave/Firefox and go to `chrome://extensions/` (or `about:addons` in Firefox).
+3. Enable "Developer mode" (or "Debug mode" in Firefox).
+4. Click "Load unpacked" and select the project folder (in Firefox, use [this guide](https://extensionworkshop.com/documentation/develop/temporary-install-a-debug-addon/)).
+5. Visit [wplace.live](https://wplace.live/) to use the extension.
+
+## Browser Compatibility
+
+- Chrome/Edge/Brave: Support silent batch download and subfolders (as long as "Ask where to save each file" is **disabled** in browser settings).
+- Firefox: Only supports flat filename, every download triggers the save dialog (subfolders and silent mode are not supported due to browser limitations).
+- If you get repeated save dialogs, check your browser's download settings.
 
 ## Support & Feedback
 

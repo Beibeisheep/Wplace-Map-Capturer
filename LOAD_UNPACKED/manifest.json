@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "__MSG_extensionName__",
+  "name": "Wplace Map Capturer",
   "version": "1.0",
-  "description": "__MSG_extensionDescription__",
+  "description": "截取wplace上的任意位置",
   "permissions": ["downloads", "storage", "alarms"],
   "host_permissions": [
     "https://wplace.live/*",
@@ -32,3 +32,4 @@
     "128": "icons/icon128.png"
   }
 }
+

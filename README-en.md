@@ -25,7 +25,7 @@ An advanced area capture and template management tool for [wplace.live](https://
 1. Download and unzip the repository.
 2. Open Chrome/Edge/Brave/Firefox and go to `chrome://extensions/` (or `about:addons` in Firefox).
 3. Enable "Developer mode" (or "Debug mode" in Firefox).
-4. Click "Load unpacked" and select the project folder (in Firefox, use [this guide](https://extensionworkshop.com/documentation/develop/temporary-install-a-debug-addon/)).
+4. Click "Load unpacked" and select the “LOAD_UNPACKED” folder (in Firefox, use [this guide](https://extensionworkshop.com/documentation/develop/temporary-install-a-debug-addon/)).
 5. Visit [wplace.live](https://wplace.live/) to use the extension.
 
 ## Browser Compatibility

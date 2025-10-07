@@ -1,6 +1,11 @@
-# Wplace.live 地图截取器
+# Wplace.live Map Capturer!
+
 
 > English version available at [README.md](./README-en.md)
+
+
+
+
 
 为 [wplace.live](https://wplace.live) 打造的高级区域截取与模板管理工具。
 

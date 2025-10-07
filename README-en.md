@@ -18,7 +18,7 @@ An advanced area capture and template management tool for [wplace.live](https://
   
 - Error highlighting: Missing or failed tiles are highlighted in the output image, and detailed logs are recorded
 
-![Snipaste_2025-10-06_15-14-15](./Snipaste_2025-10-06_15-18-58.png)
+![Snipaste_2025-10-06_15-14-15](./Snipaste_2025-10-07_14-18-42.png)
 
 ## Installation
 
